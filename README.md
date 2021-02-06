@@ -7,18 +7,18 @@ the optimal direction to move in so to get to the optimal terminal state.
 
 For example, lets say I inputed the following grid:
  
- 0  0  0 1 
+     0  0  0 1 
  
--1 -1 -1 0
+    -1 -1 -1 0
 
- 0  0  0 0
+     0  0  0 0
  
  The program would output:
  
- R R R T
+    R R R T
  
- T T T U
+    T T T U
  
- R R R U
+    R R R U
  
  where R stands for "Move Right", U stands for "Move up", and T stands for "Terminal State".
