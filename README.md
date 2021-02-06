@@ -7,7 +7,9 @@ the optimal direction to move in so to get to the optimal terminal state.
 
 For example, lets say I inputed the following grid:
  0  0  0 1
+
 -1 -1 -1 0
+
  0  0  0 0
  The program would output:
  R R R T
